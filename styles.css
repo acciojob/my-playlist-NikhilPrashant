@@ -14,6 +14,11 @@ body {
 	border-radius: 4px;
 }
 
+.player_one ul {
+	list-style: none;
+	padding-left: 0px;
+}
+
 .player_one a {
 	text-decoration: none;
 	color: black;
