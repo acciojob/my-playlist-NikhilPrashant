@@ -12,6 +12,7 @@ body {
 	padding: 10px;
 	border: 1px solid black;
 	border-radius: 4px;
+	justify-content: center;
 }
 
 .player_one ul {
@@ -30,6 +31,7 @@ body {
 	padding: 10px;
 	border: 1px solid black;
 	border-radius: 4px;
+	justify-content: center;
 }
 
 .player_two h2 {
